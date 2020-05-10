@@ -13,7 +13,7 @@ site.tld/search/keyword
 ```
 
 ## wp-flush-mc Plugin
-Flushes/Delete Memcached entry when a post is save. Also deletes site url. 
+Flushes/Delete Memcached entry when a post is save. Also deletes site url entry. 
 
 Erwin Lomibao
 https://twitter.com/111110100
